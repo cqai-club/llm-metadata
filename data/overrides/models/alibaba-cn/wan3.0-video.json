@@ -1,0 +1,10 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/wan-video-generation-api-reference",
+  "id": "wan3.0-video",
+  "name": "Wan 3.0 Video",
+  "description": "Alibaba Cloud Model Studio Wan 3.0 video generation model for text-to-video and image-to-video tasks.",
+  "modalities": {
+    "input": ["text", "image"],
+    "output": ["video"]
+  }
+}

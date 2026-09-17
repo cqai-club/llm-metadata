@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 3.0 Video",
+    "zh": "万相 3.0 视频"
+  },
+  "description": {
+    "en": "Alibaba Cloud Model Studio Wan 3.0 video generation model for text-to-video and image-to-video tasks.",
+    "zh": "阿里云百炼万相 3.0 视频生成模型，支持文生视频和图生视频任务。"
+  }
+}
