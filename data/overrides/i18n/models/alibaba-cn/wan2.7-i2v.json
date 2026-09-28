@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.7 Image to Video",
+    "zh": "万相 2.7 图生视频"
+  },
+  "description": {
+    "en": "Image-to-video generation with first/last frame, video continuation, and audio guidance.",
+    "zh": "支持首尾帧、视频续写和音频驱动的图生视频模型。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.1 Keyframes to Video Plus",
+    "zh": "万相 2.1 首尾帧生视频 Plus"
+  },
+  "description": {
+    "en": "Legacy silent video generation from first and last frame images.",
+    "zh": "万相 2.1 基于首尾帧图像的无声视频生成模型。"
+  }
+}

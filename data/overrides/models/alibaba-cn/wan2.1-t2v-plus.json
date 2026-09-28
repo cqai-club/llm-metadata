@@ -1,0 +1,14 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.1-t2v-plus",
+  "name": "Wan 2.1 Text to Video Plus",
+  "description": "Legacy silent text-to-video generation.",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

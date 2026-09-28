@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Qwen3 TTS Flash Realtime",
+    "zh": "千问3 TTS Flash 实时版"
+  },
+  "description": {
+    "en": "Realtime text-to-speech model with streaming audio output over WebSocket.",
+    "zh": "实时语音合成模型，通过 WebSocket 流式输出音频。"
+  }
+}

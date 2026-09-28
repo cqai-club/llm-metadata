@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.6 Image to Video",
+    "zh": "万相 2.6 图生视频"
+  },
+  "description": {
+    "en": "Image-to-video generation with audio input and multi-shot storytelling.",
+    "zh": "支持音频输入和多镜头叙事的图生视频模型。"
+  }
+}

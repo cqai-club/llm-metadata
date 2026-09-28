@@ -1,0 +1,17 @@
+{
+  "$comment": "Source: https://www.qianwenai.com/models/wan2.7-r2v",
+  "id": "wan2.7-r2v",
+  "name": "Wan 2.7 Reference to Video",
+  "description": "Video generation from mixed image, video, and audio references.",
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/qwen3-tts-flash-realtime",
+  "id": "qwen3-tts-flash-realtime",
+  "name": "Qwen3 TTS Flash Realtime",
+  "description": "Realtime text-to-speech model with streaming audio output over WebSocket.",
+  "modalities": {
+    "input": ["text"],
+    "output": ["audio"]
+  }
+}

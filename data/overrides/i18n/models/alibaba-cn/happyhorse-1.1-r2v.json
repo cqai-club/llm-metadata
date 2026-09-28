@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "HappyHorse 1.1 Reference to Video",
+    "zh": "HappyHorse 1.1 参考生视频"
+  },
+  "description": {
+    "en": "Video generation from reference images with synchronized sound.",
+    "zh": "基于参考图像并支持声画同步的视频生成模型。"
+  }
+}

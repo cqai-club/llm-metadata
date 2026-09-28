@@ -1,0 +1,16 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.7-videoedit",
+  "name": "Wan 2.7 Video Edit",
+  "description": "Prompt-guided video editing with optional reference images.",
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "video"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

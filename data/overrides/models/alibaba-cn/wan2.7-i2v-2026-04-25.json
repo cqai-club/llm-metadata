@@ -1,0 +1,17 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.7-i2v-2026-04-25",
+  "name": "Wan 2.7 Image to Video (2026-04-25 snapshot)",
+  "description": "Image-to-video generation with first/last frame, video continuation, and audio guidance (2026-04-25 snapshot).",
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

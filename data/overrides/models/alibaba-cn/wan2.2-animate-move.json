@@ -1,0 +1,15 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.2-animate-move",
+  "name": "Wan 2.2 Animate Move",
+  "description": "Character animation driven by a reference motion video.",
+  "modalities": {
+    "input": [
+      "image",
+      "video"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$comment": "Source: https://www.qianwenai.com/models/wan3.0-video-prime",
+  "id": "wan3.0-video-prime",
+  "name": "Wan 3.0 Video Prime",
+  "description": "Faster all-in-one video generation from text, images, audio, and video references.",
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

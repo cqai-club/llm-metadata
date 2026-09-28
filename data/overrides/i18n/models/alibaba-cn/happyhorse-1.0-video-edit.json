@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "HappyHorse 1.0 Video Edit",
+    "zh": "HappyHorse 1.0 视频编辑"
+  },
+  "description": {
+    "en": "Prompt-guided video editing with reference images.",
+    "zh": "支持文本指令和参考图像的视频编辑模型。"
+  }
+}

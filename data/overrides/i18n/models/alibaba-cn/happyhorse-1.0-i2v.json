@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "HappyHorse 1.0 Image to Video",
+    "zh": "HappyHorse 1.0 图生视频"
+  },
+  "description": {
+    "en": "Image-to-video generation with synchronized sound.",
+    "zh": "支持声画同步的图生视频模型。"
+  }
+}

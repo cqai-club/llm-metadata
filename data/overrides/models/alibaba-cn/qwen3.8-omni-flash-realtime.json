@@ -1,0 +1,14 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/qwen3-8-omni-flash-realtime",
+  "id": "qwen3.8-omni-flash-realtime",
+  "name": "Qwen3.8 Omni Flash Realtime",
+  "description": "Realtime multimodal model for audio-video conversations with text and audio output.",
+  "tool_call": true,
+  "modalities": {
+    "input": ["text", "image", "audio", "video"],
+    "output": ["text", "audio"]
+  },
+  "limit": {
+    "output": 65536
+  }
+}

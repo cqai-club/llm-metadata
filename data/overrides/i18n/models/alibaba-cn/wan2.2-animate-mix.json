@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.2 Animate Mix",
+    "zh": "万相 2.2 视频换人"
+  },
+  "description": {
+    "en": "Replace a video character using a reference portrait.",
+    "zh": "利用参考人物照片替换视频角色的模型。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Qwen3.5 Omni Flash",
+    "zh": "千问3.5 Omni Flash"
+  },
+  "description": {
+    "en": "Multimodal model for text, image, audio, and video input with text and audio output.",
+    "zh": "支持文本、图像、音频、视频输入，以及文本和音频输出的全模态模型。"
+  }
+}

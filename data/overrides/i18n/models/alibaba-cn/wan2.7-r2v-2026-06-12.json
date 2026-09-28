@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.7 Reference to Video (2026-06-12 snapshot)",
+    "zh": "万相 2.7 参考生视频（2026-06-12 快照）"
+  },
+  "description": {
+    "en": "Video generation from mixed image, video, and audio references (2026-06-12 snapshot).",
+    "zh": "支持图像、视频和音频混合参考的视频生成模型，2026-06-12 快照。"
+  }
+}
