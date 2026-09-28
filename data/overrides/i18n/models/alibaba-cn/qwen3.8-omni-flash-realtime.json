@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Qwen3.8 Omni Flash Realtime",
+    "zh": "千问3.8 Omni Flash 实时版"
+  },
+  "description": {
+    "en": "Realtime multimodal model for audio-video conversations with text and audio output.",
+    "zh": "面向实时音视频对话的全模态模型，支持文本和音频输出。"
+  }
+}
