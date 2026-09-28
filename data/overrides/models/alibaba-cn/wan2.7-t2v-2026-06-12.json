@@ -1,0 +1,15 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.7-t2v-2026-06-12",
+  "name": "Wan 2.7 Text to Video (2026-06-12 snapshot)",
+  "description": "Text-to-video generation with audio input and multi-shot storytelling (2026-06-12 snapshot).",
+  "modalities": {
+    "input": [
+      "text",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

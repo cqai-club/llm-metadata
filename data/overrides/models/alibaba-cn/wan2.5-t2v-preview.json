@@ -1,0 +1,14 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.5-t2v-preview",
+  "name": "Wan 2.5 Text to Video Preview",
+  "description": "Preview text-to-video model with synchronized sound.",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

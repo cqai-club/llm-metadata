@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.5 Image to Video Preview",
+    "zh": "万相 2.5 图生视频预览版"
+  },
+  "description": {
+    "en": "Preview image-to-video model with synchronized sound.",
+    "zh": "支持声画同步的图生视频预览模型。"
+  }
+}

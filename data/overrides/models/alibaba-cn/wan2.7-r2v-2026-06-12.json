@@ -1,0 +1,17 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.7-r2v-2026-06-12",
+  "name": "Wan 2.7 Reference to Video (2026-06-12 snapshot)",
+  "description": "Video generation from mixed image, video, and audio references (2026-06-12 snapshot).",
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio",
+      "video"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

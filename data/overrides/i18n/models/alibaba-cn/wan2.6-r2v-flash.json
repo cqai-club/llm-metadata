@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.6 Reference to Video Flash",
+    "zh": "万相 2.6 参考生视频 Flash"
+  },
+  "description": {
+    "en": "Faster video generation using image or video character references.",
+    "zh": "支持图像或视频角色参考的快速视频生成模型。"
+  }
+}

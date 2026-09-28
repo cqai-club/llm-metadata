@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.2 Animate Move",
+    "zh": "万相 2.2 图生动作"
+  },
+  "description": {
+    "en": "Character animation driven by a reference motion video.",
+    "zh": "利用参考视频动作驱动人物图像的模型。"
+  }
+}

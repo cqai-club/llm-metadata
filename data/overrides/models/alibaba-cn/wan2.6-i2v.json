@@ -1,0 +1,16 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.6-i2v",
+  "name": "Wan 2.6 Image to Video",
+  "description": "Image-to-video generation with audio input and multi-shot storytelling.",
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.7 Video Edit",
+    "zh": "万相 2.7 视频编辑"
+  },
+  "description": {
+    "en": "Prompt-guided video editing with optional reference images.",
+    "zh": "支持文本指令和参考图像的视频编辑模型。"
+  }
+}

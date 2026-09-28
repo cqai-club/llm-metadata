@@ -1,0 +1,16 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "wan2.6-i2v-flash",
+  "name": "Wan 2.6 Image to Video Flash",
+  "description": "Faster image-to-video generation with optional audio.",
+  "modalities": {
+    "input": [
+      "text",
+      "image",
+      "audio"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}

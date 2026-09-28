@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Wan 2.6 Text to Video",
+    "zh": "万相 2.6 文生视频"
+  },
+  "description": {
+    "en": "Text-to-video generation with audio input and multi-shot storytelling.",
+    "zh": "支持音频输入和多镜头叙事的文生视频模型。"
+  }
+}

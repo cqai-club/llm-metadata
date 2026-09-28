@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "HappyHorse 1.1 Text to Video",
+    "zh": "HappyHorse 1.1 文生视频"
+  },
+  "description": {
+    "en": "Text-to-video generation with synchronized sound.",
+    "zh": "支持声画同步的文生视频模型。"
+  }
+}

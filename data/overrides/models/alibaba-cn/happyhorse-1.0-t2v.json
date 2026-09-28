@@ -1,0 +1,14 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/video-generate-edit-model",
+  "id": "happyhorse-1.0-t2v",
+  "name": "HappyHorse 1.0 Text to Video",
+  "description": "Text-to-video generation with synchronized sound.",
+  "modalities": {
+    "input": [
+      "text"
+    ],
+    "output": [
+      "video"
+    ]
+  }
+}
