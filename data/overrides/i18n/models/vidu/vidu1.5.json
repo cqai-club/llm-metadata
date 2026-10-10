@@ -1,0 +1,7 @@
+{
+  "name": { "en": "Vidu 1.5", "zh": "Vidu 1.5" },
+  "description": {
+    "en": "Video generation model for text prompts and image-guided motion.",
+    "zh": "支持文本提示和图像引导动作的视频生成模型。"
+  }
+}

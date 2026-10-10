@@ -1,0 +1,7 @@
+{
+  "name": { "en": "Vidu 2.0", "zh": "Vidu 2.0" },
+  "description": {
+    "en": "Image-to-video and reference-to-video generation model with optional text guidance. Requires an input image; text-only generation is unsupported.",
+    "zh": "支持可选文本引导的图生视频和参考生视频模型，必须提供输入图像，不支持仅用文本生成。"
+  }
+}

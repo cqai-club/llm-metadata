@@ -1,0 +1,8 @@
+{
+  "id": "vidu",
+  "name": "Vidu",
+  "description": "Shengshu's Vidu video generation models.",
+  "api": "https://api.vidu.com",
+  "doc": "https://platform.vidu.com/docs",
+  "lobeIcon": "Vidu.Color"
+}

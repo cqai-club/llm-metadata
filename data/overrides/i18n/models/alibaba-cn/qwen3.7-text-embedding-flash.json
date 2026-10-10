@@ -1,0 +1,10 @@
+{
+  "name": {
+    "en": "Qwen3.7 Text Embedding Flash",
+    "zh": "千问3.7 文本向量 Flash"
+  },
+  "description": {
+    "en": "Multilingual text embedding model with 1024-dimensional default vectors for semantic search, clustering and classification, with an OpenAI-compatible embeddings API.",
+    "zh": "多语种文本向量模型，默认输出 1024 维向量，用于语义搜索、聚类和分类，支持 OpenAI 兼容向量接口。"
+  }
+}

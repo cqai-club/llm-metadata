@@ -1,0 +1,7 @@
+{
+  "$comment": "Sources: https://platform.vidu.com/docs/api-reference/video-models/vidu-q1/text-to-video and https://platform.vidu.com/docs/image-to-video; Relay Task Plugin meta declares viduq1; request protocols remain owned by the Relay Task Plugin.",
+  "id": "viduq1",
+  "name": "Vidu Q1",
+  "description": "Video generation model supporting text prompts and image references with smooth transitions and stable camera motion.",
+  "modalities": { "input": ["text", "image"], "output": ["video"] }
+}

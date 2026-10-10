@@ -82,7 +82,7 @@ export class NewApiBuilder {
           description: model.description || '',
           tags: buildModelTags(model, tagMap).join(','),
           vendor_name: provider.name || providerId,
-          endpoints: null,
+          endpoints: model.endpoints ? [...model.endpoints] : null,
           status: 1,
           name_rule: 0,
           icon: model.icon || provider.lobeIcon || '',

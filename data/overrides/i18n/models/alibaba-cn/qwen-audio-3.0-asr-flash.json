@@ -1,0 +1,7 @@
+{
+  "name": { "en": "Qwen Audio 3.0 ASR Flash", "zh": "千问音频 3.0 ASR Flash" },
+  "description": {
+    "en": "Speech recognition model that transcribes audio into text, with optional short text context and inline hotwords through the native DashScope API.",
+    "zh": "通过原生 DashScope 接口将音频转写为文本，支持可选的简短文本上下文和内联热词。"
+  }
+}

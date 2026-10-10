@@ -1,0 +1,7 @@
+{
+  "$comment": "Sources: https://www.alibabacloud.com/help/en/model-studio/non-realtime-speech-recognition-user-guide and https://www.alibabacloud.com/help/en/model-studio/fun-asr-flash-recorded-speech-recognition-http-api; native DashScope POST /api/v1/services/aigc/multimodal-generation/generation only; no OpenAI audio-transcription endpoint declared.",
+  "id": "qwen-audio-3.0-asr-flash",
+  "name": "Qwen Audio 3.0 ASR Flash",
+  "description": "Speech recognition model that transcribes audio into text, with optional short text context and inline hotwords through the native DashScope API.",
+  "modalities": { "input": ["text", "audio"], "output": ["text"] }
+}

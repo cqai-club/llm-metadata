@@ -1,0 +1,7 @@
+{
+  "$comment": "Sources: https://platform.vidu.com/docs/api-reference/video-models/vidu-1-5/image-to-video and https://platform.vidu.cn/docs/task-pricing; text2video supports vidu1.5. Relay Task Plugin meta declares vidu1.5; request protocols remain owned by the Relay Task Plugin.",
+  "id": "vidu1.5",
+  "name": "Vidu 1.5",
+  "description": "Video generation model for text prompts and image-guided motion.",
+  "modalities": { "input": ["text", "image"], "output": ["video"] }
+}

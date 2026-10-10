@@ -85,6 +85,8 @@ export interface Model extends ModelBase, ModelCapabilities {
   limit?: ModelLimits;
   cost?: ModelCost;
   modalities?: ModelModalities;
+  /** Explicit API endpoint types; omitted when the supported protocol is unverified. */
+  endpoints?: string[];
 }
 
 /** 基础提供商信息 */
@@ -261,7 +263,7 @@ export interface NewApiModel {
   description: string;
   tags: string;
   vendor_name: string;
-  endpoints: null;
+  endpoints: string[] | null;
   status: number;
   name_rule: number;
   icon: string;

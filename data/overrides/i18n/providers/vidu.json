@@ -1,0 +1,7 @@
+{
+  "name": { "en": "Vidu", "zh": "生数 Vidu" },
+  "description": {
+    "en": "Shengshu's Vidu video generation models.",
+    "zh": "生数科技的 Vidu 视频生成模型。"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "$comment": "Sources: https://platform.vidu.com/docs/image-to-video and https://platform.vidu.com/docs/reference-to-video; images are required. Relay Task Plugin meta declares vidu2.0 and rejects text-only requests; request protocols remain owned by the Relay Task Plugin.",
+  "id": "vidu2.0",
+  "name": "Vidu 2.0",
+  "description": "Image-to-video and reference-to-video generation model with optional text guidance. Requires an input image; text-only generation is unsupported.",
+  "modalities": { "input": ["text", "image"], "output": ["video"] }
+}

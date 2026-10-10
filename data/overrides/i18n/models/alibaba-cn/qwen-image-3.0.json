@@ -1,0 +1,7 @@
+{
+  "name": { "en": "Qwen Image 3.0", "zh": "千问图像 3.0" },
+  "description": {
+    "en": "Image generation and editing model using text prompts and optional reference images through the OpenAI-compatible image generation API.",
+    "zh": "支持文本提示和可选参考图的图像生成与编辑模型，使用 OpenAI 兼容图像生成接口。"
+  }
+}
