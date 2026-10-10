@@ -14,6 +14,7 @@ export const ALLOWED_MODEL_OVERRIDE_KEYS = [
   'last_updated',
   'open_weights',
   'modalities',
+  'endpoints',
   'limit',
   'cost',
   'currency',

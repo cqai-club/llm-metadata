@@ -31,13 +31,16 @@ data/overrides/models/<provider-id>/<model-id>.json
 data/overrides/i18n/models/<provider-id>/<model-id>.json
 ```
 
-可维护字段包括 `reasoning`、`tool_call`、`attachment`、`temperature`、`open_weights`、`release_date`、`last_updated`、`modalities`、`limit` 和 `cost`。请在 `$comment` 中保留官方资料地址；该字段只保留在源文件中，不会进入生成的 API。
+可维护字段包括 `reasoning`、`tool_call`、`attachment`、`temperature`、`open_weights`、`release_date`、`last_updated`、`modalities`、`endpoints`、`limit` 和 `cost`。请在 `$comment` 中保留官方资料地址；该字段只保留在源文件中，不会进入生成的 API。
+
+`endpoints` 用非空、无重复的字符串数组明确声明已经核实的 API 协议类型，例如 OpenAI 兼容向量接口写为 `"endpoints": ["embeddings"]`，并将 `modalities` 写为 `{"input": ["text"], "output": ["embedding"]}`。NewAPI 导出会保留这些端点；未声明的模型继续输出 `endpoints: null`。不要仅根据模型名或模态推断端点。声明元数据不会替 Relay 实现供应商协议适配或启用渠道。
 
 ## 校验改动
 
 ```bash
 npm ci
 npm run validate:overrides
+npm test
 npm run build
 ```
 

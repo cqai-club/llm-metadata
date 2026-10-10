@@ -1,0 +1,14 @@
+{
+  "$comment": "Source: https://help.aliyun.com/zh/model-studio/text-embedding-synchronous-api; OpenAI-compatible POST /v1/embeddings.",
+  "id": "qwen3.7-text-embedding-flash",
+  "name": "Qwen3.7 Text Embedding Flash",
+  "description": "Multilingual text embedding model with 1024-dimensional default vectors for semantic search, clustering and classification, with an OpenAI-compatible embeddings API.",
+  "modalities": {
+    "input": ["text"],
+    "output": ["embedding"]
+  },
+  "endpoints": ["embeddings"],
+  "limit": {
+    "context": 128000
+  }
+}

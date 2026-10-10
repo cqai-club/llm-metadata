@@ -20,6 +20,7 @@ const allowedModelKeys = new Set([
   'last_updated',
   'open_weights',
   'modalities',
+  'endpoints',
   'limit',
   'cost',
   'currency',
@@ -99,6 +100,17 @@ function validateModelOverride(path) {
   validateString(value.description, path, 'description');
   validateDate(value.release_date, path, 'release_date');
   validateDate(value.last_updated, path, 'last_updated');
+
+  if (value.endpoints !== undefined) {
+    validateStringArray(value.endpoints, path, 'endpoints');
+    if (Array.isArray(value.endpoints)) {
+      if (value.endpoints.length === 0) {
+        errors.push(`${fileLabel(path)}: endpoints must not be empty; omit unverified endpoints`);
+      } else if (new Set(value.endpoints).size !== value.endpoints.length) {
+        errors.push(`${fileLabel(path)}: endpoints must not contain duplicate values`);
+      }
+    }
+  }
 
   const modelId = basename(path, '.json');
   if (value.id !== undefined && value.id !== modelId) {

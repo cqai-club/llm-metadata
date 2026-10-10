@@ -1,0 +1,7 @@
+{
+  "name": { "en": "Vidu Q2", "zh": "Vidu Q2" },
+  "description": {
+    "en": "Video generation model supporting text prompts and image references for dynamic motion and detailed scenes.",
+    "zh": "支持文本提示和图像参考的视频生成模型，适用于动态动作和细节丰富的场景。"
+  }
+}

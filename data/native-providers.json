@@ -85,6 +85,7 @@
       "notes": "Keeps only Tencent's own Hunyuan models."
     },
     "longcat": { "lobeIcon": "LongCat.Color" },
+    "vidu": { "lobeIcon": "Vidu.Color", "notes": "Shengshu's first-party Vidu video generation API; Relay Task Plugins own request protocols." },
     "bailing": { "lobeIcon": "AntGroup.Color", "notes": "Ant Group Ling/Ring models." },
     "nova": { "lobeIcon": "Nova.Color", "notes": "Amazon's first-party Nova API (api.nova.amazon.com)." },
     "upstage": { "lobeIcon": "Upstage.Color" },

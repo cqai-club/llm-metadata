@@ -1,0 +1,8 @@
+{
+  "$comment": "Source: https://www.alibabacloud.com/help/en/model-studio/qwen-image-generation-and-editing-api-reference; OpenAI-compatible POST /v1/images/generations handles generation and editing using the image extension field; /images/edits is unsupported.",
+  "id": "qwen-image-3.0",
+  "name": "Qwen Image 3.0",
+  "description": "Image generation and editing model using text prompts and optional reference images through the OpenAI-compatible image generation API.",
+  "modalities": { "input": ["text", "image"], "output": ["image"] },
+  "endpoints": ["image-generation"]
+}
